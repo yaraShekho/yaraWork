@@ -1,4 +1,3 @@
-# Git_Course
-for academy Web School Git Course
+# MY NOTES
 
 ###  Project Notes
